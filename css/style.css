@@ -275,6 +275,12 @@ body {
     }
 }
 
+@media (max-width: 516px) {
+    #footer .footer-content .footer-menu {
+        width: 100%;
+    }
+}
+
 @media (min-width: 992px) and (max-width: 1440px){
     #navbar .navbar-container {
         width: 85%;
